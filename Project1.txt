@@ -1,0 +1,7 @@
+11.04.2019 13:00 : Learn how to install repos in project folder
+
+11.04.2019 13:50 : Git is installed in this root folder
+
+11.04.2019 13:53 : I'm trying to change the file to see how version controller works 
+
+
